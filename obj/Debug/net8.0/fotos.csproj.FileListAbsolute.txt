@@ -1,0 +1,6 @@
+C:\Users\jenni\OneDrive\Desktop\Fatec\A1\fotos\obj\Debug\net8.0\fotos.csproj.AssemblyReference.cache
+C:\Users\jenni\OneDrive\Desktop\Fatec\A1\fotos\obj\Debug\net8.0\fotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\OneDrive\Desktop\Fatec\A1\fotos\obj\Debug\net8.0\fotos.AssemblyInfoInputs.cache
+C:\Users\jenni\OneDrive\Desktop\Fatec\A1\fotos\obj\Debug\net8.0\fotos.AssemblyInfo.cs
+C:\Users\jenni\OneDrive\Desktop\Fatec\A1\fotos\obj\Debug\net8.0\fotos.csproj.CoreCompileInputs.cache
+C:\Users\jenni\OneDrive\Desktop\Fatec\A1\fotos\obj\Debug\net8.0\fotos.sourcelink.json
